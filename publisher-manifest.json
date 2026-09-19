@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "2e2c353b616855fd0062557c",
+  "owner": "kcmsskxse",
+  "repo": "page-13c4466b0c7de1fdde1149c9",
+  "title": "机场推荐第一",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "13c4466b0c7de1fdde1149c9",
+      "a": "速鹰",
+      "b": "机场推荐第一",
+      "entity": "速鹰",
+      "brand": "机场推荐第一",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9e882f2d7fbd0b8f8fcb39bf53a0a60165ac77660e05ec4f551d14116aa0119f",
+      "content": {
+        "primary_entity": "速鹰",
+        "keyword1": "速鹰",
+        "keyword2": "机场推荐第一",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，手机、电脑与路由器各有适配方案。",
+          "AI_CLIENTS_TITLE": "客户端选择指南",
+          "AI_CLOSING_TEXT": "根据设备数和月流量挑好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档选择，月付与年付灵活搭配，支持多设备同时在线，覆盖日常浏览、流媒体与游戏加速场景。",
+          "AI_FEATURES_INTRO": "从流量、设备数量到线路类型，三个维度帮你快速锁定合适的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，支持定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量匹配",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TITLE_3": "按线路需求匹配",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，三步走完。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "速鹰为需要稳定海外连接的用户提供多档订阅方案，按设备数量与月流量灵活选择，覆盖流媒体与游戏加速场景。",
+          "AI_HERO_SUBTITLE": "速鹰多档套餐，按需选配",
+          "AI_HIGHLIGHT_1": "基础、旗舰、团队三档可选",
+          "AI_HIGHLIGHT_2": "年付低至月付价八折左右",
+          "AI_HIGHLIGHT_3": "支持 3 至 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版 100GB 适合轻度使用，旗舰版 300GB 兼顾流媒体与游戏，团队版 1000GB 满足多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量预估，从三档套餐中选定合适的订阅方案。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统和网络环境是否满足。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "速鹰套餐一览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "速鹰支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "速鹰支持在 Windows、macOS、iOS 和 Android 等常见操作系统上使用，具体可通过客户端订阅方式配置。不同套餐支持的同时在线设备数量不同，基础版3台，旗舰版5台，团队版20台。",
+          "AI_FAQ_QUESTION_2": "如何导入订阅？",
+          "AI_FAQ_ANSWER_2": "购买套餐后，你会获得一个订阅链接。在所选客户端中粘贴该链接并更新订阅即可。具体步骤请参考客户端的订阅导入说明。",
+          "AI_FAQ_QUESTION_3": "套餐流量用完了怎么办？",
+          "AI_FAQ_ANSWER_3": "当月流量用尽后，可以等到下个计费周期自动重置，也可以随时升级到更高流量的套餐，升级后立即生效。",
+          "AI_FAQ_QUESTION_4": "可以中途更换套餐吗？",
+          "AI_FAQ_ANSWER_4": "支持更换套餐。你可以在账户内操作升级或降级，差价会按剩余天数折算，具体以购买时页面显示为准。",
+          "AI_FAQ_QUESTION_5": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_5": "年付和月付功能相同，但年付更优惠。例如基础版月付15元，年付仅需150元；旗舰版月付35元，年付350元；团队版月付85元，年付850元。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "683fc23abf32ad6410604a1c9bb061f3b7c6624cc11a4fc9e341acd7b93c78a1",
+    "sitemap.xml": "cc795026d1b3b4fab4d0c133f34f9b76fdd1dba8dca1ebd94fd06ecfddef664e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "1999d8b2ce827d5333ed1e22b4a2795d3dbe73dc57515a829ec162a8fb6a4c5a"
+}
